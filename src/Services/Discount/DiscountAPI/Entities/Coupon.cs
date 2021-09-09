@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace DiscountAPI.Entities
+namespace Discount.API.Entities
 {
     public class Coupon
     {

@@ -1,5 +1,5 @@
-﻿using Discount.API.Repositories;
-using DiscountAPI.Entities;
+﻿using Discount.API.Entities;
+using Discount.API.Repositories;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
